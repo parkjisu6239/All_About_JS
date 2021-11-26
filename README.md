@@ -1,6 +1,6 @@
 # All About JS
 
-[MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript)  |  [Tutorial](https://ko.javascript.info/)  |  [w3schools](https://www.w3schools.com/js/default.asp)  |  [javascript.com](https://www.javascript.com/)
+[MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript)  |  [Tutorial](https://ko.javascript.info/)  |  [w3schools](https://www.w3schools.com/js/default.asp)  |  [javascript.com](https://www.javascript.com/) | [Class별 method](https://www.programiz.com/javascript/library/string)
 
 JS의 모든 API 알아보기! 단, 너무 기본적인 내용은 건너뛸 수 있다. 아래 내용은 MDN 기준으로 작성되었다.
 
@@ -21,4 +21,6 @@ JS의 모든 API 알아보기! 단, 너무 기본적인 내용은 건너뛸 수 
 - [JS가 뭔가요?](./JS첫걸음/JS가뭔가요.md) | JS 로드 순서
 
 - [JS 기초](./JS첫걸음/JS기초/index.html) | Up&Down
+
+- String Class
 
