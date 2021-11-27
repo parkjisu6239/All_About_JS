@@ -24,3 +24,5 @@ JS의 모든 API 알아보기! 단, 너무 기본적인 내용은 건너뛸 수 
 
 - String Class
 
+- Object Class
+
