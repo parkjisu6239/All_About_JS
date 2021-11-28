@@ -20,7 +20,7 @@ JS의 모든 API 알아보기! 단, 너무 기본적인 내용은 건너뛸 수 
 
 - [JS가 뭔가요?](./JS첫걸음/JS가뭔가요.md) | JS 로드 순서
 
-- [JS 기초](./JS첫걸음/JS기초/index.html) | Up&Down
+- [JS 기초](./JS첫걸음/JS기초) | Up&Down
 
 - String Class
 
