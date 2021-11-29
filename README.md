@@ -3,7 +3,7 @@
 [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript)  |  [Tutorial](https://ko.javascript.info/)  |  [w3schools](https://www.w3schools.com/js/default.asp)  |  [javascript.com](https://www.javascript.com/) | [Class별 method](https://www.programiz.com/javascript/library/string)
 
 JS의 모든 API 알아보기! 단, 너무 기본적인 내용은 건너뛸 수 있다. 아래 내용은 MDN 기준으로 작성되었다.
-
+Dom 조작과 js의 특징까지
 
 
 ## JS
@@ -25,4 +25,5 @@ JS의 모든 API 알아보기! 단, 너무 기본적인 내용은 건너뛸 수 
 - String Class
 
 - Object Class
+
 
