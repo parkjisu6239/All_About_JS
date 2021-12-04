@@ -19,11 +19,8 @@ Dom 조작과 js의 특징
 ### [JS 첫걸음](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
 - [JS가 뭔가요?](./JS첫걸음/JS가뭔가요.md) | JS 로드 순서
-
 - [JS 기초](./JS첫걸음/JS기초) | Up&Down
-
-- String Class
-
+- [Number](./JS첫걸음/Number.md)
+- [String](./JS첫걸음/String.md)
 - Object Class
-
 
