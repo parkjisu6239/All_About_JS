@@ -12,15 +12,16 @@ Dom 조작과 js의 특징
 
 
 
+## Todo
 
+- AJAX, axios
+- promise
+- async, await
+- https://developer.mozilla.org/en-US/docs/Web 여기에서 webAPI와 JS 부분!
+- [this](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this)
+- function, [call](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 
-## 입문자용
+- [Errors](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Errors)
 
-### [JS 첫걸음](https://developer.mozilla.org/ko/docs/Web/JavaScript)
-
-- [JS가 뭔가요?](./JS첫걸음/JS가뭔가요.md) | JS 로드 순서
-- [JS 기초](./JS첫걸음/JS기초) | Up&Down
-- [Number](./JS첫걸음/Number.md)
-- [String](./JS첫걸음/String.md)
-- Object Class
+- [nodejs에서 event처리하는 방법 .on()](https://nodejs.org/docs/latest-v12.x/api/events.html)
 
