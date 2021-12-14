@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body> 
+  <canvas></canvas>
+  <script>
+    const canvas = document.querySelector('canvas');
+    const html = document.querySelector('html')
+    let ctx = canvas.getContext('2d');
+    let x = 50;
+    let y = 50;
+    let size = 50;
+
+    canvas.width= window.innerWidth;
+    canvas.height=window.innerHeight;
+
+    function drawCircle(x, y, size) {
+      ctx.fillStyle = 'white';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      ctx.beginPath();
+      ctx.fillStyle = 'black';
+      ctx.arc(x, y, size, 0, 2 * Math.PI);
+      ctx.fill();
+    }
+
+    drawCircle(x, y, size)
+
+    html.onkeypress = (e) => {
+      if (e.code === "KeyW") {
+        y -= 50
+      } else if (e.code === "KeyA") {
+        x -= 50
+      } else if (e.code === "KeyS") {
+        y += 50
+      } else if (e.code === "KeyD") {
+        x += 50
+      } else {
+        return
+      }
+      drawCircle(x, y, size)
+    }
+  </script>
+</body>
+</html>

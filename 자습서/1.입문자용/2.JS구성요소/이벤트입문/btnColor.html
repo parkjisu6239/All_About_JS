@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div class="btns"></div>
+  <script>
+    const btns = document.querySelector('.btns')
+    const colors = ['red', 'yellow', 'green', 'purple']
+
+    colors.forEach((color) => {
+      const btn = document.createElement('button')
+      btn.setAttribute('data-color', color)
+      btn.textContent = color
+      btns.append(btn)
+    })
+    
+    btns.onclick = (e) => {
+      if (e.target && e.target.nodeName == 'BUTTON') {
+        e.target.style.backgroundColor = e.target.dataset.color
+      }
+
+    }
+  </script>
+</body>
+</html>
