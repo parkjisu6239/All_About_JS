@@ -29,3 +29,5 @@ JavaScript 실습 위주의 내용으로 구성되어 있으며 보다 자세한
 - JavaScript 가이드
 
   JavaScript 또는 다른 언어로 프로그래밍 경험이 있는 독자들을 대상으로한 JavaScript 언어에 대한 상세 가이드입니다.
+
+- 맥북으로 남기는 첫 커밋
