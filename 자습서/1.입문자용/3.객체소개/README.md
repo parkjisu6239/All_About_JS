@@ -1,14 +1,14 @@
 ## [가이드](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects#guides)
 
-- [객체 기본](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Basics)
+- [객체 기본](./객체%20기본)
 
   JavaScript 객체 소개의 첫 장에서는, 기본적인 JavaScript 객체 문법을 볼 것이며, 이전 과정에서 이미 봐왔던 몇몇 JavaScript 특징들을 다시 들여다 볼 것입니다. 이를 통해 우리는 이전에 다루었던 많은 특징들이 사실상 객체였다는 사실을 알게 될 것입니다.
 
-- [입문자를 위한 객체지향 자바스크립트](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [입문자를 위한 객체지향 자바스크립트](./객체%20지향%20기본)
 
   가장 기본적인 것으로, 우리는 객체 지향 JavaScript(OOJS) 에 초점을 둘 것입니다. 이 글에서는 객체 지향 프로그래밍(OOP) 이론의 기본 관점을 보여주고, JavaScript 가 생성자함수를 이용하여 객체 클래스를 에뮬레이트 하는 방법과 객체 인스턴스를 생성하는 방법에 대해 탐구합니다.
 
-- [객체 프로토타입](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [객체 프로토타입](./객체%20프로토타입)
 
   프로토타입은 JavaScript 객체가 또다른 객체로 특성을 상속시키기 위한 메커니즘이고, 그것들은 고전적인 객체 지향 프로그래밍 언어들의 상속 메커니즘과 다르게 작동합니다. 이 글에서는 그 다름을 탐구하고, 프로토타입 체인이 동작하는 방식을 설명하며 프로토타입의 속성이 기본 생성자들로 메소드를 추가하기 위해 사용되는 방법을 보여줍니다.
 
