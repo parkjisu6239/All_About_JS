@@ -1,0 +1,39 @@
+p {
+    font-family: sans-serif;
+}
+
+h2 {
+    padding: 10px;
+    border: solid 2px rgb(211, 211, 211);
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 10px 0px;
+    border: solid 1px rgb(211, 211, 211);
+    border-radius: 5px;
+}
+
+li {
+    padding: 3px 10px;
+}
+
+li:nth-child(even) {
+    background-color: rgb(222, 222, 222);
+}
+
+button {
+    border: solid 1px rgba(177, 175, 175, 0.281);
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+button:enabled{
+    cursor: pointer;
+}
+
+button:hover:enabled{
+    background-color: rgb(210, 210, 210);
+}
